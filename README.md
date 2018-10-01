@@ -15,10 +15,9 @@ Each community member that actively participates will also have a reputation wit
 Working on the Ethereum blockchain provides inmutability once an element is recorded on the blockchain and gives us the ability to create an economy to regulate the participation on the app.
 Through a simple web interface, users enter the Athena Dapp and are able to interact with the ethereum blockchain. Each question is stored on the blockchain along with the votes, and when the fact get verified, the answer get stored along with the given info.
 
-![Simple Diagram Athena]
-(images/athenaDia.png)
+![Simple Diagram Athena](images/athenaDia.png)
 
-#### key features:
+#### Key features:
  - Important interactions are recorded on the blockchain.   
  - Users are commited to give real answers One-account-per-person autheticationm (BrightId, Telegram Passport).
  - Balanced tokenomics.
